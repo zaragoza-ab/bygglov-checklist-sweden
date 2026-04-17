@@ -1,0 +1,12 @@
+title: "Swedish Bygglov Checklist"
+description: "Open checklist for Swedish building-permit applications (PBL / BBR)"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+url: "https://zaragoza-ab.github.io"
+baseurl: "/bygglov-checklist-sweden"
+author:
+  name: "Zaragoza AB"
+  email: "info@zaragoza.se"
+  url: "https://zaragoza.se"
